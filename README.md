@@ -1,2 +1,4 @@
 # PySpark Projects
-Super Store Analysis
+1 - Super Store Analysis
+2 - Hotel Data Analysis
+
